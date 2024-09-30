@@ -1,12 +1,12 @@
 {
   "packages": [
     {
-      "name": "ZUM-Core-for-Arduino-1.8.x",
-      "maintainer": "BQ",
-      "websiteURL": "https://github.com/BQ/ZUMCore",
-      "email": "soporte.bitbloq@bq.com",
+      "name": "ZUM-Core",
+      "maintainer": "BQ Educación",
+      "websiteURL": "https://github.com/Bitbloq/ZUMCore",
+      "email": "soporte.bitbloq@bqeducacion.cc",
       "help": {
-        "online": "http://www.bq.com"
+        "online": "https://www.bqeducacion.cc"
       },
       "platforms": [
         {
@@ -37,7 +37,7 @@
             }
           ]
         },
-		{
+		    {
           "name": "ZUM Core for Arduino 1.8.x",
           "architecture": "avr",
           "version": "0.2.0",
