@@ -64,6 +64,36 @@
               "version": "6.3.0-arduino2"
             }
           ]
+        },
+        {
+          "name": "Zum Core",
+          "architecture": "avr",
+          "version": "0.3.0",
+          "category": "Contributed",
+          "help": {
+            "online": "http://www.bqeducacion.cc"
+          },
+          "url": "",
+          "archiveFileName": "",
+          "checksum": "SHA-256:",
+          "size": "",
+          "boards": [
+            {
+              "name": "Zum Core 2"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.3.0-arduino17"
+            }
+          ]
         }
       ],
       "tools":[]
