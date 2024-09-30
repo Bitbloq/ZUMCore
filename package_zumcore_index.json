@@ -73,10 +73,10 @@
           "help": {
             "online": "http://www.bqeducacion.cc"
           },
-          "url": "",
-          "archiveFileName": "",
-          "checksum": "SHA-256:",
-          "size": "",
+          "url": "https://github.com/Bitbloq/ZUMCore/releases/download/0.3.0/zum-core-0.3.0.zip",
+          "archiveFileName": "zum-core-0.3.0.zip",
+          "checksum": "SHA-256:bb5901650a770645647a97fb307990edd41672f73dada21639fc024ca6002dd1",
+          "size": "220059",
           "boards": [
             {
               "name": "Zum Core 2"
