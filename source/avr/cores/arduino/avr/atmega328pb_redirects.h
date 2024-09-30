@@ -23,6 +23,7 @@
 #define SPIF  SPIF0
 #define SPDR SPDR0
 #define SPSR SPSR0
+#define SPCR SPCR0
 
 #endif
 

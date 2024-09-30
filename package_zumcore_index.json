@@ -105,8 +105,8 @@
           },
           "url": "https://github.com/Bitbloq/ZUMCore/releases/download/0.4.0/zum-core-0.4.0.zip",
           "archiveFileName": "zum-core-0.4.0.zip",
-          "checksum": "SHA-256:3f9cc71cac580bc0ea112993d72ecb20e682fdb21fc138c0e6bd40793f3c5769",
-          "size": "220594",
+          "checksum": "SHA-256:350400b08d9fbb6374ef812eb1456f6b38afd43caeefe4f482a903ab3519ecdd",
+          "size": "220598",
           "boards": [
             {
               "name": "Zum Core 2"
