@@ -48,7 +48,7 @@
 
 #ifndef _AVR_IOXXX_H_
 // CPV - was: #  define _AVR_IOXXX_H_ "iom328pb.h"
-#  define _AVR_IOXXX_H_ "iom328p.h"
+#  define _AVR_IOXXX_H_ "iom328pb.h"
 #else
 #  error "Attempt to include more than one <avr/ioXXX.h> file."
 #endif
