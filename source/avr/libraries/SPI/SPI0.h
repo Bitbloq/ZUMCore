@@ -184,5 +184,6 @@ private:
 
 extern SPI0Class SPI0;
 #define SPI  SPI0
+#define SPIClass SPI0Class
 
 #endif /* _SPI0_H_ */
