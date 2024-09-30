@@ -1,12 +1,12 @@
 {
   "packages": [
     {
-      "name": "ZUM-Core-for-Arduino-1.8.x",
-      "maintainer": "BQ",
-      "websiteURL": "https://github.com/BQ/ZUMCore",
-      "email": "soporte.bitbloq@bq.com",
+      "name": "ZUM-Core",
+      "maintainer": "BQ Educación",
+      "websiteURL": "https://github.com/Bitbloq/ZUMCore",
+      "email": "soporte.bitbloq@bqeducacion.cc",
       "help": {
-        "online": "http://www.bq.com"
+        "online": "https://www.bqeducacion.cc"
       },
       "platforms": [
         {
@@ -37,7 +37,7 @@
             }
           ]
         },
-		{
+		    {
           "name": "ZUM Core for Arduino 1.8.x",
           "architecture": "avr",
           "version": "0.2.0",
@@ -62,6 +62,36 @@
               "packager": "arduino",
               "name": "avrdude",
               "version": "6.3.0-arduino2"
+            }
+          ]
+        },
+        {
+          "name": "Zum Core",
+          "architecture": "avr",
+          "version": "0.3.0",
+          "category": "Contributed",
+          "help": {
+            "online": "http://www.bqeducacion.cc"
+          },
+          "url": "",
+          "archiveFileName": "",
+          "checksum": "SHA-256:",
+          "size": "",
+          "boards": [
+            {
+              "name": "Zum Core 2"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.3.0-arduino17"
             }
           ]
         }
